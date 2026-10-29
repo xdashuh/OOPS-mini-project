@@ -1,0 +1,4 @@
+library
+library_data.tmp
+__pycache__/
+*.pyc

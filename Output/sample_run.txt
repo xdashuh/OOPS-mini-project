@@ -1,0 +1,34 @@
+=== CAMPUS LIBRARY MANAGEMENT SYSTEM ===
+
+1. List items
+2. Add book
+3. Add magazine
+4. Issue item
+5. Return item
+0. Save and exit
+Choose: 2
+Book ID: 101
+Title: The C++ Programming Language
+Author: Bjarne Stroustrup
+
+Choose: 3
+Magazine ID: 201
+Title: Science Monthly
+Issue number: 12
+
+Choose: 1
+ID    Type      Title                           Status      Details
+--------------------------------------------------------------------------------
+101   Book      The C++ Programming Language    Available   Author: Bjarne Stroustrup
+201   Magazine  Science Monthly                 Available   Issue: 12
+
+Choose: 4
+Item ID to issue: 101
+Issued: The C++ Programming Language
+
+Choose: 1
+101   Book      The C++ Programming Language    Issued      Author: Bjarne Stroustrup
+201   Magazine  Science Monthly                 Available   Issue: 12
+
+Choose: 0
+Data saved. Goodbye!

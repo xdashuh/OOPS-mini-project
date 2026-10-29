@@ -1,0 +1,2 @@
+B|101|The C++ Programming Language|Bjarne Stroustrup|1
+M|201|Science Monthly|12|1
